@@ -1,0 +1,4 @@
+&comp_inparm 
+
+wav_coupling_to_cice = .true.
+/ 

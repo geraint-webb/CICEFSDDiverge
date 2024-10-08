@@ -1,0 +1,88 @@
+---------------- TIMING PROFILE ---------------------
+  Case        : NilsFSAdapt
+  LID         : 6178332.desched1.240924-190923
+  Machine     : derecho
+  Caseroot    : /glade/u/home/geraint/NilsScheme/NilsFSAdapt
+  Timeroot    : /glade/u/home/geraint/NilsScheme/NilsFSAdapt/Tools
+  User        : geraint
+  Curr Date   : Tue Sep 24 19:14:39 2024
+  Driver      : CMEPS
+  grid        : a%TL319_l%null_oi%tx2_3v2_r%JRA025_g%null_w%wgx3v7_z%null_m%tx2_3v2
+  compset     : 2000_DATM%JRA-1p4-2018_SLND_CICE_DOCN%SOM_DROF%JRA-1p4-2018_SGLC_WW3DEV_SESP
+  run type    : startup, continue_run = FALSE (inittype = TRUE)
+  stop option : ndays, stop_n = 5
+  run length  : 5 days (4.958333333333333 for ocean)
+
+  component       comp_pes    root_pe   tasks  x threads instances (stride) 
+  ---------        ------     -------   ------   ------  ---------  ------  
+  cpl = cpl        256         0        256    x 1       1      (1     ) 
+  atm = datm       256         0        256    x 1       1      (1     ) 
+  lnd = slnd       256         0        256    x 1       1      (1     ) 
+  ice = cice       256         0        256    x 1       1      (1     ) 
+  ocn = docn       256         0        256    x 1       1      (1     ) 
+  rof = drof       256         0        256    x 1       1      (1     ) 
+  glc = sglc       256         0        256    x 1       1      (1     ) 
+  wav = ww3dev     256         0        256    x 1       1      (1     ) 
+  esp = sesp       256         0        256    x 1       1      (1     ) 
+
+  total pes active           : 256 
+  mpi tasks per node         : 128 
+  pe count for cost estimate : 256 
+
+  Overall Metrics: 
+    Model Cost:            1224.01   pe-hrs/simulated_year 
+    Model Throughput:         5.02   simulated_years/day 
+
+    Init Time   :      57.226 seconds 
+    Run Time    :     235.790 seconds       47.158 seconds/day 
+    Final Time  :       0.011 seconds 
+
+
+Runs Time in total seconds, seconds/model-day, and model-years/wall-day 
+CPL Run Time represents time in CPL pes alone, not including time associated with data exchange with other components 
+
+    TOT Run Time:     235.790 seconds       47.158 seconds/mday         5.02 myears/wday 
+    CPL Run Time:      23.287 seconds        4.657 seconds/mday        50.82 myears/wday 
+    ATM Run Time:       2.090 seconds        0.418 seconds/mday       566.35 myears/wday 
+    LND Run Time:       0.000 seconds        0.000 seconds/mday         0.00 myears/wday 
+    ICE Run Time:     188.367 seconds       37.673 seconds/mday         6.28 myears/wday 
+    OCN Run Time:       0.698 seconds        0.140 seconds/mday      1694.92 myears/wday 
+    ROF Run Time:       0.404 seconds        0.081 seconds/mday      2933.24 myears/wday 
+    GLC Run Time:       0.000 seconds        0.000 seconds/mday         0.00 myears/wday 
+    WAV Run Time:      34.184 seconds        6.837 seconds/mday        34.62 myears/wday 
+    ESP Run Time:       0.000 seconds        0.000 seconds/mday         0.00 myears/wday 
+    CPL COMM Time:      0.408 seconds        0.082 seconds/mday      2900.89 myears/wday 
+   NOTE: min:max driver timers (seconds/day):   
+                            CPL (pes 0 to 255) 
+                                                ATM (pes 0 to 255) 
+                                                LND (pes 0 to 255) 
+                                                ICE (pes 0 to 255) 
+                                                OCN (pes 0 to 255) 
+                                                ROF (pes 0 to 255) 
+                                                GLC (pes 0 to 255) 
+                                                WAV (pes 0 to 255) 
+                                                ESP (pes 0 to 255) 
+
+
+
+More info on coupler timing:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

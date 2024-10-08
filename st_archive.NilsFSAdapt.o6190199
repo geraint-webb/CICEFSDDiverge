@@ -1,0 +1,54 @@
+st_archive starting
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/cesm.log.6190198.desched1.240926-032918.gz to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/logs/cesm.log.6190198.desched1.240926-032918.gz
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/med.log.6190198.desched1.240926-032918.gz to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/logs/med.log.6190198.desched1.240926-032918.gz
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/wav.log.6190198.desched1.240926-032918.gz to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/logs/wav.log.6190198.desched1.240926-032918.gz
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/drv.log.6190198.desched1.240926-032918.gz to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/logs/drv.log.6190198.desched1.240926-032918.gz
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/rof.log.6190198.desched1.240926-032918.gz to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/logs/rof.log.6190198.desched1.240926-032918.gz
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/ocn.log.6190198.desched1.240926-032918.gz to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/logs/ocn.log.6190198.desched1.240926-032918.gz
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/atm.log.6190198.desched1.240926-032918.gz to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/logs/atm.log.6190198.desched1.240926-032918.gz
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/ice.log.6190198.desched1.240926-032918.gz to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/logs/ice.log.6190198.desched1.240926-032918.gz
+-------------------------------------------
+Archiving restarts for date date(1, 1, 6, 0, 0, 0)
+-------------------------------------------
+Archiving restarts for datm (atm)
+removing interim restart file /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.datm.r.0001-01-06-00000.nc
+Archiving restarts for cice (ice)
+removing interim restart file /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.r.0001-01-06-00000.nc
+Archiving restarts for docn (ocn)
+removing interim restart file /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.docn.r.0001-01-06-00000.nc
+Archiving restarts for drof (rof)
+removing interim restart file /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.drof.r.0001-01-06-00000.nc
+Archiving restarts for ww3dev (wav)
+removing interim restart file /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.ww3.r.0001-01-06-00000
+Archiving restarts for drv (cpl)
+removing interim restart file /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cpl.r.0001-01-06-00000.nc
+Archiving restarts for dart (esp)
+-------------------------------------------
+Archiving restarts for date date(1, 7, 25, 0, 0, 0)
+-------------------------------------------
+Archiving restarts for datm (atm)
+copying file /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.datm.r.0001-07-25-00000.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/rest/0001-07-25-00000/NilsFSAdapt.datm.r.0001-07-25-00000.nc
+Archiving restarts for cice (ice)
+copying file /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.r.0001-07-25-00000.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/rest/0001-07-25-00000/NilsFSAdapt.cice.r.0001-07-25-00000.nc
+Archiving restarts for docn (ocn)
+copying file /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.docn.r.0001-07-25-00000.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/rest/0001-07-25-00000/NilsFSAdapt.docn.r.0001-07-25-00000.nc
+Archiving restarts for drof (rof)
+copying file /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.drof.r.0001-07-25-00000.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/rest/0001-07-25-00000/NilsFSAdapt.drof.r.0001-07-25-00000.nc
+Archiving restarts for ww3dev (wav)
+copying file /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.ww3.r.0001-07-25-00000 to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/rest/0001-07-25-00000/NilsFSAdapt.ww3.r.0001-07-25-00000
+Archiving restarts for drv (cpl)
+copying file /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cpl.r.0001-07-25-00000.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/rest/0001-07-25-00000/NilsFSAdapt.cpl.r.0001-07-25-00000.nc
+Archiving restarts for dart (esp)
+Archiving history files for datm (atm)
+Archiving history files for cice (ice)
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-01.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-01.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-02.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-02.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-03.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-03.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-04.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-04.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-05.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-05.nc 
+Archiving history files for docn (ocn)
+Archiving history files for drof (rof)
+Archiving history files for ww3dev (wav)
+Archiving history files for drv (cpl)
+Archiving history files for dart (esp)
+st_archive completed

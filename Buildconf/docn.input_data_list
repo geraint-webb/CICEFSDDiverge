@@ -1,0 +1,4 @@
+model_meshfile = /glade/campaign/cesm/cesmdata/inputdata/share/meshes/tx2_3v2_230415_ESMFmesh.nc
+model_maskfile = /glade/campaign/cesm/cesmdata/inputdata/share/meshes/tx2_3v2_230415_ESMFmesh.nc
+mesh = /glade/campaign/cesm/cesmdata/inputdata/ocn/docn7/SOM/pop_frc.1x1d.SCRIP.030620_ESMFmesh.nc
+file1 = /glade/campaign/cesm/cesmdata/inputdata/ocn/docn7/SOM/pop_frc.1x1d.090130.nc

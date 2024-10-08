@@ -1,0 +1,46 @@
+Generating namelists for /glade/u/home/geraint/NilsScheme/NilsFSAdapt
+  2024-09-23 13:31:40 atm 
+Create namelist for component datm
+   Calling /glade/work/bitz/cesm2_3_beta17wave_06242024/components/cdeps/datm/cime_config/buildnml
+  2024-09-23 13:31:42 lnd 
+Create namelist for component slnd
+   Calling /glade/work/bitz/cesm2_3_beta17wave_06242024/cime/CIME/non_py/src/components/stub_comps_nuopc/slnd/cime_config/buildnml
+  2024-09-23 13:31:42 ice 
+Create namelist for component cice
+   Calling /glade/work/bitz/cesm2_3_beta17wave_06242024/components/cice//cime_config/buildnml
+RUN: /glade/work/bitz/cesm2_3_beta17wave_06242024/components/cice/bld/generate_cice_decomp.pl -ccsmroot /glade/work/bitz/cesm2_3_beta17wave_06242024 -res tx2_3v2 -nx 540 -ny 480 -nproc 256 -thrds 1 -output all 
+FROM: /glade/u/home/geraint/NilsScheme/NilsFSAdapt
+  output: 540 480 12 12 8 sectrobin square-ice
+
+  2024-09-23 13:31:44 ocn 
+Create namelist for component docn
+   Calling /glade/work/bitz/cesm2_3_beta17wave_06242024/components/cdeps/docn/cime_config/buildnml
+docn_mode is som
+  2024-09-23 13:31:46 rof 
+Create namelist for component drof
+   Calling /glade/work/bitz/cesm2_3_beta17wave_06242024/components/cdeps/drof/cime_config/buildnml
+  2024-09-23 13:31:47 glc 
+Create namelist for component sglc
+   Calling /glade/work/bitz/cesm2_3_beta17wave_06242024/cime/CIME/non_py/src/components/stub_comps_nuopc/sglc/cime_config/buildnml
+  2024-09-23 13:31:47 wav 
+Create namelist for component ww3dev
+   Calling /glade/work/bitz/cesm2_3_beta17wave_06242024/components/ww3dev/cime_config/buildnml
+   Running /glade/work/bitz/cesm2_3_beta17wave_06242024/components/ww3dev/cime_config/buildnml 
+  2024-09-23 13:31:48 esp 
+Create namelist for component sesp
+   Calling /glade/work/bitz/cesm2_3_beta17wave_06242024/cime/CIME/non_py/src/components/stub_comps_nuopc/sesp/cime_config/buildnml
+  2024-09-23 13:31:48 cpl 
+Create namelist for component drv
+   Calling /glade/work/bitz/cesm2_3_beta17wave_06242024/components/cmeps/cime_config/buildnml
+Writing nuopc_runconfig for components ['CPL', 'ATM', 'ICE', 'OCN', 'ROF', 'WAV']
+NUOPC run sequence: copying custom run sequence from case root
+-------------------------------------------------------------------------
+ - Prestage required restarts into /glade/derecho/scratch/geraint/NilsFSAdapt/run
+ - Case input data directory (DIN_LOC_ROOT) is /glade/campaign/cesm/cesmdata/inputdata 
+ - Checking for required input datasets in DIN_LOC_ROOT
+-------------------------------------------------------------------------
+run command is mpibind  --label  --line-buffer  --  /glade/derecho/scratch/geraint/NilsFSAdapt/bld/cesm.exe   >> cesm.log.$LID 2>&1  
+check for resubmit
+dout_s True 
+mach derecho 
+resubmit_num 0

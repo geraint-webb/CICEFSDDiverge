@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<file id="stream" version="2.0">
+
+  <stream_info name="som">
+   <taxmode>cycle</taxmode>
+   <tintalgo>linear</tintalgo>
+   <readmode>single</readmode>
+   <mapalgo>bilinear</mapalgo>
+   <dtlimit>1.5</dtlimit>
+   <year_first>1</year_first>
+   <year_last>1</year_last>
+   <year_align>1</year_align>
+   <vectors>null</vectors>
+   <meshfile>/glade/campaign/cesm/cesmdata/inputdata/ocn/docn7/SOM/pop_frc.1x1d.SCRIP.030620_ESMFmesh.nc</meshfile>
+   <lev_dimname>null</lev_dimname>
+   <datafiles>
+      <file>/glade/campaign/cesm/cesmdata/inputdata/ocn/docn7/SOM/pop_frc.1x1d.090130.nc</file>
+   </datafiles>
+   <datavars>
+      <var>T     So_t</var>
+      <var>S     So_s</var>
+      <var>U     So_u</var>
+      <var>V     So_v</var>
+      <var>dhdx  So_dhdx</var>
+      <var>dhdy  So_dhdy</var>
+      <var>hblt  So_h</var>
+      <var>qdp   So_qbot</var>
+   </datavars>
+   <offset>0</offset>
+  </stream_info>
+
+</file>

@@ -1,0 +1,236 @@
+st_archive starting
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/rof.log.6207641.desched1.240927-093658.gz to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/logs/rof.log.6207641.desched1.240927-093658.gz
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/drv.log.6202890.desched1.240926-172521 to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/logs/drv.log.6202890.desched1.240926-172521
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/ocn.log.6207641.desched1.240927-093658.gz to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/logs/ocn.log.6207641.desched1.240927-093658.gz
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/drv.log.6207641.desched1.240927-093658.gz to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/logs/drv.log.6207641.desched1.240927-093658.gz
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/wav.log.6207641.desched1.240927-093658.gz to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/logs/wav.log.6207641.desched1.240927-093658.gz
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/cesm.log.6202890.desched1.240926-172521 to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/logs/cesm.log.6202890.desched1.240926-172521
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/ice.log.6207641.desched1.240927-093658.gz to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/logs/ice.log.6207641.desched1.240927-093658.gz
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/med.log.6207641.desched1.240927-093658.gz to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/logs/med.log.6207641.desched1.240927-093658.gz
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/cesm.log.6207641.desched1.240927-093658.gz to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/logs/cesm.log.6207641.desched1.240927-093658.gz
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/atm.log.6207641.desched1.240927-093658.gz to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/logs/atm.log.6207641.desched1.240927-093658.gz
+-------------------------------------------
+Archiving restarts for date date(1, 6, 30, 0, 0, 0)
+-------------------------------------------
+Archiving restarts for datm (atm)
+removing interim restart file /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.datm.r.0001-06-30-00000.nc
+Archiving restarts for cice (ice)
+removing interim restart file /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.r.0001-06-30-00000.nc
+Archiving restarts for docn (ocn)
+removing interim restart file /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.docn.r.0001-06-30-00000.nc
+Archiving restarts for drof (rof)
+removing interim restart file /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.drof.r.0001-06-30-00000.nc
+Archiving restarts for ww3dev (wav)
+removing interim restart file /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.ww3.r.0001-06-30-00000
+Archiving restarts for drv (cpl)
+removing interim restart file /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cpl.r.0001-06-30-00000.nc
+Archiving restarts for dart (esp)
+-------------------------------------------
+Archiving restarts for date date(1, 7, 25, 0, 0, 0)
+-------------------------------------------
+Archiving restarts for datm (atm)
+copying file /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.datm.r.0001-07-25-00000.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/rest/0001-07-25-00000/NilsFSAdapt.datm.r.0001-07-25-00000.nc
+Archiving restarts for cice (ice)
+copying file /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.r.0001-07-25-00000.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/rest/0001-07-25-00000/NilsFSAdapt.cice.r.0001-07-25-00000.nc
+Archiving restarts for docn (ocn)
+copying file /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.docn.r.0001-07-25-00000.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/rest/0001-07-25-00000/NilsFSAdapt.docn.r.0001-07-25-00000.nc
+Archiving restarts for drof (rof)
+copying file /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.drof.r.0001-07-25-00000.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/rest/0001-07-25-00000/NilsFSAdapt.drof.r.0001-07-25-00000.nc
+Archiving restarts for ww3dev (wav)
+copying file /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.ww3.r.0001-07-25-00000 to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/rest/0001-07-25-00000/NilsFSAdapt.ww3.r.0001-07-25-00000
+Archiving restarts for drv (cpl)
+copying file /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cpl.r.0001-07-25-00000.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/rest/0001-07-25-00000/NilsFSAdapt.cpl.r.0001-07-25-00000.nc
+Archiving restarts for dart (esp)
+Archiving history files for datm (atm)
+Archiving history files for cice (ice)
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h.0001-01.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h.0001-01.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h.0001-02.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h.0001-02.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h.0001-03.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h.0001-03.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h.0001-04.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h.0001-04.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h.0001-05.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h.0001-05.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-01.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-01.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-02.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-02.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-03.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-03.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-04.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-04.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-05.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-05.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-06.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-06.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-07.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-07.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-08.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-08.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-09.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-09.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-10.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-10.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-11.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-11.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-12.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-12.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-13.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-13.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-14.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-14.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-15.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-15.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-16.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-16.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-17.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-17.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-18.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-18.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-19.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-19.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-20.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-20.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-21.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-21.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-22.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-22.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-23.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-23.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-24.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-24.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-25.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-25.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-26.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-26.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-27.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-27.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-28.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-28.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-29.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-29.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-30.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-30.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-01-31.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-01-31.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-02-01.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-02-01.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-02-02.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-02-02.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-02-03.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-02-03.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-02-04.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-02-04.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-02-05.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-02-05.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-02-06.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-02-06.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-02-07.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-02-07.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-02-08.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-02-08.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-02-09.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-02-09.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-02-10.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-02-10.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-02-11.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-02-11.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-02-12.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-02-12.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-02-13.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-02-13.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-02-14.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-02-14.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-02-15.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-02-15.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-02-16.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-02-16.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-02-17.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-02-17.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-02-18.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-02-18.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-02-19.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-02-19.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-02-20.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-02-20.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-02-21.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-02-21.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-02-22.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-02-22.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-02-23.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-02-23.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-02-24.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-02-24.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-02-25.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-02-25.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-02-26.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-02-26.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-02-27.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-02-27.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-02-28.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-02-28.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-03-01.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-03-01.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-03-02.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-03-02.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-03-03.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-03-03.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-03-04.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-03-04.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-03-05.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-03-05.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-03-06.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-03-06.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-03-07.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-03-07.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-03-08.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-03-08.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-03-09.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-03-09.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-03-10.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-03-10.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-03-11.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-03-11.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-03-12.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-03-12.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-03-13.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-03-13.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-03-14.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-03-14.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-03-15.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-03-15.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-03-16.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-03-16.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-03-17.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-03-17.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-03-18.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-03-18.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-03-19.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-03-19.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-03-20.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-03-20.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-03-21.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-03-21.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-03-22.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-03-22.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-03-23.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-03-23.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-03-24.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-03-24.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-03-25.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-03-25.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-03-26.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-03-26.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-03-27.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-03-27.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-03-28.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-03-28.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-03-29.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-03-29.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-03-30.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-03-30.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-03-31.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-03-31.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-04-01.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-04-01.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-04-02.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-04-02.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-04-03.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-04-03.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-04-04.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-04-04.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-04-05.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-04-05.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-04-06.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-04-06.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-04-07.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-04-07.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-04-08.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-04-08.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-04-09.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-04-09.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-04-10.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-04-10.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-04-11.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-04-11.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-04-12.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-04-12.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-04-13.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-04-13.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-04-14.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-04-14.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-04-15.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-04-15.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-04-16.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-04-16.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-04-17.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-04-17.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-04-18.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-04-18.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-04-19.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-04-19.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-04-20.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-04-20.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-04-21.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-04-21.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-04-22.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-04-22.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-04-23.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-04-23.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-04-24.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-04-24.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-04-25.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-04-25.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-04-26.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-04-26.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-04-27.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-04-27.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-04-28.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-04-28.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-04-29.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-04-29.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-04-30.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-04-30.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-05-01.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-05-01.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-05-02.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-05-02.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-05-03.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-05-03.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-05-04.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-05-04.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-05-05.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-05-05.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-05-06.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-05-06.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-05-07.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-05-07.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-05-08.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-05-08.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-05-09.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-05-09.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-05-10.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-05-10.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-05-11.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-05-11.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-05-12.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-05-12.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-05-13.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-05-13.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-05-14.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-05-14.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-05-15.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-05-15.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-05-16.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-05-16.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-05-17.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-05-17.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-05-18.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-05-18.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-05-19.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-05-19.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-05-20.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-05-20.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-05-21.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-05-21.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-05-22.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-05-22.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-05-23.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-05-23.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-05-24.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-05-24.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-05-25.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-05-25.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-05-26.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-05-26.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-05-27.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-05-27.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-05-28.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-05-28.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-05-29.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-05-29.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-05-30.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-05-30.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-05-31.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-05-31.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-06-01.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-06-01.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-06-02.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-06-02.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-06-03.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-06-03.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-06-04.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-06-04.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-06-05.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-06-05.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-06-06.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-06-06.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-06-07.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-06-07.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-06-08.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-06-08.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-06-09.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-06-09.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-06-10.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-06-10.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-06-11.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-06-11.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-06-12.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-06-12.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-06-13.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-06-13.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-06-14.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-06-14.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-06-15.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-06-15.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-06-16.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-06-16.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-06-17.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-06-17.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-06-18.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-06-18.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-06-19.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-06-19.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-06-20.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-06-20.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-06-21.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-06-21.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-06-22.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-06-22.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-06-23.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-06-23.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-06-24.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-06-24.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-06-25.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-06-25.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-06-26.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-06-26.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-06-27.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-06-27.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-06-28.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-06-28.nc 
+moving /glade/derecho/scratch/geraint/NilsFSAdapt/run/NilsFSAdapt.cice.h1.0001-06-29.nc to /glade/derecho/scratch/geraint/archive/NilsFSAdapt/ice/hist/NilsFSAdapt.cice.h1.0001-06-29.nc 
+Archiving history files for docn (ocn)
+Archiving history files for drof (rof)
+Archiving history files for ww3dev (wav)
+Archiving history files for drv (cpl)
+Archiving history files for dart (esp)
+st_archive completed

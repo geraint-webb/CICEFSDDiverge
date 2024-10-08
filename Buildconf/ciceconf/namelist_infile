@@ -1,0 +1,61 @@
+&comp_inparm 
+
+
+
+tr_fsd = .true.
+
+nfsd = 12
+
+wave_spec_type = 'constant'
+
+histfreq = "m", "d", "x", "x", "x"
+
+histfreq_n = 1, 0, 1, 0, 0
+
+conserv_check = .true.
+
+hist_avg = .false.
+
+
+
+ice_ic = '/glade/derecho/scratch/bitz/G.CESM2.3.beta17wave.a/run/G.CESM2.3.beta17wave.a.cice.r.0016-01-01-00000.nc'
+
+f_fresh = 'mxxxx'
+
+f_fresh_ai = 'mxxxx'
+
+f_frzmlt = 'mdxxx'
+
+f_afsd = "mdxxx"
+
+f_afsdn = "mdxxx"
+
+f_dafsd_latg = "mdxxx"
+
+f_dafsd_latm = "mdxxx"
+
+f_dafsd_newi = "mdxxx"
+
+f_dafsd_wave = "mdxxx"
+
+f_dafsd_weld = "mdxxx"
+
+f_divu = "mdxxx"
+
+f_afsdn="mdxxx"
+
+f_wave_sig_ht = "mdxxx"
+
+f_diam_ww = "mdxxx"
+
+f_hice_ww = "mdxxx"
+
+f_fsdrad = "mdxxx"
+
+f_fsdperim = "mdxxx"
+
+f_uvel = "mdxxx"
+
+f_vvel = "mdxxx" 
+
+/ 

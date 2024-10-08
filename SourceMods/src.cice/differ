@@ -1,0 +1,88 @@
+1451,1452d1450
+<          vi0new_init  , & ! test 
+<          true_vice_init, &
+1545,1548c1543
+<          if (icepack_warnings_aborted(subname)) then
+<                  print *, 'LR A'
+<                  return
+<          endif
+---
+>          if (icepack_warnings_aborted(subname)) return
+1571,1575c1566
+<          true_vice_init = vice_init
+<          if (icepack_warnings_aborted(subname)) then
+<                  print *, "LR B"
+<                  return
+<          end if
+---
+>          if (icepack_warnings_aborted(subname)) return
+1614d1604
+<       vi0new_init = vi0new
+1678,1681c1668
+<             if (icepack_warnings_aborted(subname)) then
+<                     print *, 'LR b1'
+<                     return
+<             end if
+---
+>             if (icepack_warnings_aborted(subname)) return
+1690,1699d1676
+<             ! check lateral growth doesn't exceed total growth
+<             ! if it does, adjust it
+<             if (SUM(vin0new)>vi0new) then
+<                 print *, 'LR error ',vi0new,SUM(vin0new)
+<                 print *, 'fixing it'
+<                 vin0new(:) = vin0new(:)*vi0new/SUM(vin0new)
+<                 print *, 'now ',vi0new,SUM(vin0new)
+<             end if
+< 
+<             ! remove the new ice created by lateral growth
+1817,1820c1794
+<                   if (icepack_warnings_aborted(subname)) then
+<                           print *, 'LR b2'
+<                           return
+<                   end if
+---
+>                   if (icepack_warnings_aborted(subname)) return
+1824,1827c1798
+<                   if (icepack_warnings_aborted(subname)) then
+<                           print *, 'LR C'
+<                           return
+<                   end if
+---
+>                   if (icepack_warnings_aborted(subname)) return
+1897,1900c1868
+<             if (icepack_warnings_aborted(subname)) then
+<                     print *, 'LR D'
+<                     return
+<             end if
+---
+>             if (icepack_warnings_aborted(subname)) return
+1980,1983c1948
+<          if (icepack_warnings_aborted(subname)) then
+<                print *, 'LR E'
+<                return
+<          end if
+---
+>          if (icepack_warnings_aborted(subname)) return
+1991,2002c1956
+<          if (icepack_warnings_aborted(subname)) then
+<                 
+<                  print *, 'true vice_init ',vice_init
+<                  print *, 'true vi0new_init ',vi0new_init
+<                  print *, 'vi0new now ',vi0new
+<                  print *, 'sum vin0new ',SUM(vin0new)
+<                  print *, 'vin0new(:) ',vin0new(:)
+<                  print *, 'from check ',vice_init, vice_final
+<                  print *, "LR F"
+<                  return
+<          end if
+<          
+---
+>          if (icepack_warnings_aborted(subname)) return
+2023,2026c1977
+<          if (icepack_warnings_aborted(subname)) then
+<                  print *, "LR G"
+<                  return
+<          end if
+---
+>          if (icepack_warnings_aborted(subname)) return
